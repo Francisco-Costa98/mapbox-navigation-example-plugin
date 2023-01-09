@@ -1,0 +1,17 @@
+{
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "android": {
+        "image": "latest"
+      },
+      "ios": {
+        "simulator": true
+      }
+    }
+  },
+  "cli": {
+    "promptToConfigurePushNotifications": false
+  }
+}
