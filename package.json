@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~47.0.9",
+    "expo": "~51.0.0",
     "@rnmapbox/maps": "^10.0.0-beta.57",
     "expo-dev-client": "~2.0.1",
     "expo-status-bar": "~1.4.2",
